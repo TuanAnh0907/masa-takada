@@ -1,0 +1,219 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Dosis:300,400,500,700);
+
+body {
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+    color: #212121;
+    font-weight: 400
+}
+
+#content {
+    background-color: #f0f0f0
+}
+
+a {
+    color: #303841
+}
+
+a:hover, a:focus {
+    color: #303841
+}
+
+.btn, input[type=submit] {
+    background: #0ab1f2
+}
+
+.btn:hover, .btn:focus, .btn.focus, .btn:active, .btn.active, .btn.active.focus, .btn.active:focus, .btn.active:hover, .btn:active.focus, .btn:active:focus, .btn:active:hover, input[type=submit]:hover, input[type=submit]:focus {
+    background: #0a97f2
+}
+
+.area-content-accent {
+    background-color: #f3f3f3
+}
+
+.top-nav {
+    background-color: #303841;
+    font-family: Dosis, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 400
+}
+
+.top-nav a, .top-nav a:hover, .top-nav a:focus {
+    color: #fff
+}
+
+.site-header, .navigation {
+    background-color: #fff;
+    color: #333
+}
+
+.primary-nav, .primary-nav a {
+    color: #333;
+    text-decoration: none
+}
+
+.primary-nav a:hover, .primary-nav a:focus {
+    color: #333;
+    text-decoration: none
+}
+
+.site-name, .site-name h1, .site-name h2, .site-name h3, .site-name h4, .site-name h5, .site-name h6, .site-name a {
+    font-family: Times New Roman, serif, sans-serif;
+    font-size: 33px;
+    color: #390af2;
+    font-weight: 700
+}
+
+.site-name a:hover, .site-name a:focus {
+    color: #390af2
+}
+
+.site-header .ccm-search-block-form:before {
+    color: #444
+}
+
+.site-header .ccm-search-block-form .ccm-search-block-text {
+    color: #444;
+    background-color: #eee;
+    border-color: #eee
+}
+
+.primary-nav .navbar .navbar-nav > li > a, .primary-nav .navbar .navbar-nav > .open > a {
+    font-family: Dosis, sans-serif;
+    font-size: 21px;
+    color: #333;
+    font-weight: 400
+}
+
+.primary-nav .navbar .navbar-nav > li > a:focus, .primary-nav .navbar .navbar-nav > .open > a:focus, .primary-nav .navbar .navbar-nav > li > a:hover, .primary-nav .navbar .navbar-nav > .open > a:hover, .primary-nav .navbar .navbar-nav > .active > a, .primary-nav .navbar .navbar-nav > .active > a:focus, .primary-nav .navbar .navbar-nav > .active > a:hover {
+    color: #000
+}
+
+@media (min-width: 768px) {
+    .primary-nav .navbar {
+        margin-top: 39px;
+        margin-bottom: 26px
+    }
+}
+
+h1 {
+    font-family: Book Antiqua, serif;
+    font-size: 44px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: none
+}
+
+h2 {
+    font-family: Dosis;
+    font-size: 37px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: none
+}
+
+h3 {
+    font-family: Dosis;
+    font-size: 31px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: none
+}
+
+h4 {
+    font-family: Dosis;
+    font-size: 26px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: none
+}
+
+h5 {
+    font-family: Dosis;
+    font-size: 22px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: uppercase
+}
+
+h6 {
+    font-family: Dosis;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212121;
+    text-transform: uppercase
+}
+
+blockquote {
+    padding-left: 30px;
+    border-color: #666;
+    font-size: 1.4em;
+    font-weight: 300;
+    color: #666
+}
+
+.site-footer {
+    background-color: #303841;
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+    color: #efefef;
+    font-weight: 400
+}
+
+.site-footer p, .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
+    color: #efefef
+}
+
+.site-footer a {
+    color: #efefef
+}
+
+.site-footer a:hover, .site-footer a:focus {
+    color: #efefef;
+    text-decoration: none
+}
+
+.title-thin {
+    font-size: 31px;
+    font-weight: 200;
+    display: block
+}
+
+.title-caps-bold {
+    font-family: Dosis;
+    font-size: 31px;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block
+}
+
+.title-caps {
+    font-family: Dosis;
+    font-size: 31px;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block
+}
+
+/*
+     FILE ARCHIVED ON 06:06:05 Jan 05, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:21:14 Jul 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.782
+  exclusion.robots: 0.226
+  exclusion.robots.policy: 0.215
+  esindex: 0.01
+  cdx.remote: 18.438
+  LoadShardBlock: 87.056 (3)
+  PetaboxLoader3.datanode: 86.352 (4)
+  load_resource: 76.266
+  PetaboxLoader3.resolve: 59.307
+*/

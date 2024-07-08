@@ -1,0 +1,48 @@
+/*! http://responsiveslides.com v1.54 by @viljamis */
+
+.ccm-image-slider {
+    position: relative;
+}
+
+.ccm-image-slider-text {
+    position: absolute;
+    width: 45%;
+    left: 0;
+    top: 10%;
+}
+
+.ccm-image-slider-title {
+    margin-top:auto;
+}
+
+.ccm-image-slider-container a.mega-link-overlay {
+    position: absolute;
+    z-index: 20;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+}
+
+.rslides {
+    margin: 0 auto;
+}
+/*
+     FILE ARCHIVED ON 04:51:27 Dec 25, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:25:03 Jul 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.079
+  exclusion.robots: 0.112
+  exclusion.robots.policy: 0.096
+  esindex: 0.014
+  cdx.remote: 5.715
+  LoadShardBlock: 92.987 (3)
+  PetaboxLoader3.datanode: 61.227 (4)
+  PetaboxLoader3.resolve: 81.724 (2)
+  load_resource: 127.4
+*/
